@@ -12,11 +12,11 @@ Daha önceki günlerde redux store'u oluşturmayı, middleware kavramını, useS
 
 ### Görev 1: Proje Kurulumu
 
-- [ ] Forklayın.
-- [ ] Klonlayın
-- [ ] Ana dizine gidin
-- [ ] `npm install`
-- [ ] `npm start`
+- [+] Forklayın.
+- [+] Klonlayın
+- [+] Ana dizine gidin
+- [+] `npm install`
+- [+] `npm start`
 
 ### Görev 2: Proje Gereksinimleri
 
